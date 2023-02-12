@@ -8,4 +8,7 @@ def add(a, b):
 
 def multiply(a, b):
     return a * b
-print('Hello')
+
+
+def sub(a, b):
+     return a - b
